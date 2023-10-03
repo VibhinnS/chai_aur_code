@@ -1,1 +1,1 @@
-hello world
+A collection of all my learnings from the "Chai aur React" series by Hitesh C. 
