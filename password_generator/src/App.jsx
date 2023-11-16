@@ -1,7 +1,7 @@
+import './App.css'
 import { useState, useCallback, useEffect, useRef } from 'react'
 
-
-function App() {
+const App = () => {
   const [length, setLength] = useState(8)
   const [allowNumber, setallowNumber] = useState(false)
   const [allowChar, setallowChar] = useState(false)
